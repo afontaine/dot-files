@@ -13,6 +13,3 @@
 [submodule "atom"]
 	path = atom
 	url = git@github.com:afontaine/dot-atom.git
-[submodule "prezto"]
-	path = prezto
-	url = git@github.com:afontaine/dot-zsh.git
