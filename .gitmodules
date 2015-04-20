@@ -1,18 +1,18 @@
 [submodule "git"]
 	path = git
-	url = git://github.com/afontaine/dot-git.git
+	url = git@github.com:afontaine/dot-git.git
 [submodule "vim"]
 	path = vim
-	url = git://github.com/afontaine/dot-vim.git
+	url = git@github.com:afontaine/dot-vim.git
 [submodule "tmux"]
 	path = tmux
-	url = git://github.com/afontaine/dot-tmux.git
+	url = git@github.com:afontaine/dot-tmux.git
 [submodule "ctags"]
 	path = ctags
-	url = git://github.com/afontaine/dot-ctags.git
+	url = git@github.com:afontaine/dot-ctags.git
 [submodule "atom"]
 	path = atom
-	url = git://github.com/afontaine/dot-atom.git
+	url = git@github.com:afontaine/dot-atom.git
 [submodule "prezto"]
 	path = prezto
-	url = git://github.com/afontaine/dot-zsh.git
+	url = git@github.com:afontaine/dot-zsh.git
