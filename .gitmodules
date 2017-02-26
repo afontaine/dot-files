@@ -16,3 +16,6 @@
 [submodule "prezto/.zprezto"]
 	path = prezto/.zprezto
 	url = git@github.com:afontaine/dot-zsh
+[submodule "zsh"]
+	path = zsh
+	url = ./zsh
