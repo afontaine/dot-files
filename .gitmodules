@@ -15,4 +15,4 @@
 	url = git@github.com:afontaine/dot-atom.git
 [submodule "zsh"]
 	path = zsh
-	url = ./zsh
+	url = git@github.com:afontaine/dot-zsh.git
