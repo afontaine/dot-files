@@ -10,9 +10,6 @@
 [submodule "ctags"]
 	path = ctags
 	url = git@github.com:afontaine/dot-ctags.git
-[submodule "atom"]
-	path = atom
-	url = git@github.com:afontaine/dot-atom.git
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:afontaine/dot-zsh.git
